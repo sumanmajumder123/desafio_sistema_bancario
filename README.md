@@ -1,1 +1,2 @@
-# desafio_sistema_bancario
+# Projeto do desáfio do sistema bancário do Bootcamp.
+# Foi utilizado o código base disponibilizado. Adicionado um novo menu inicial para utilização do código 'continue', além de pequenas sentenças nas respostas do programa.
